@@ -1,0 +1,1256 @@
+[
+  {
+    "name": "404___fa",
+    "path": "/404",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "url": "/404"
+  },
+  {
+    "name": "500___fa",
+    "path": "/500",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\500.vue",
+    "chunkName": "pages/500",
+    "url": "/500"
+  },
+  {
+    "path": "/ar",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index___ar",
+        "path": "",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\index.vue",
+        "chunkName": "pages/index/index",
+        "url": "/ar"
+      },
+      {
+        "name": "index-aboutus___ar",
+        "path": "aboutus",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\aboutus.vue",
+        "chunkName": "pages/index/aboutus",
+        "url": "/ar/aboutus"
+      },
+      {
+        "name": "index-contactus___ar",
+        "path": "contactus",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\contactus.vue",
+        "chunkName": "pages/index/contactus",
+        "url": "/ar/contactus"
+      },
+      {
+        "name": "index-edit___ar",
+        "path": "edit",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\edit.vue",
+        "chunkName": "pages/index/edit",
+        "url": "/ar/edit"
+      },
+      {
+        "name": "index-FAQ___ar",
+        "path": "FAQ",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\FAQ.vue",
+        "chunkName": "pages/index/FAQ",
+        "url": "/ar/FAQ"
+      },
+      {
+        "name": "index-new___ar",
+        "path": "new",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\new.vue",
+        "chunkName": "pages/index/new",
+        "url": "/ar/new"
+      },
+      {
+        "path": "plans",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans.vue",
+        "chunkName": "pages/index/plans",
+        "children": [
+          {
+            "name": "index-plans___ar",
+            "path": "",
+            "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans\\\\index.vue",
+            "chunkName": "pages/index/plans/index",
+            "url": "/ar/plans"
+          },
+          {
+            "name": "index-plans-agency___ar",
+            "path": "agency",
+            "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans\\\\agency.vue",
+            "chunkName": "pages/index/plans/agency",
+            "url": "/ar/plans/agency"
+          }
+        ]
+      },
+      {
+        "name": "index-search___ar",
+        "path": "search",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\search.vue",
+        "chunkName": "pages/index/search",
+        "url": "/ar/search"
+      },
+      {
+        "name": "index-services___ar",
+        "path": "services",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\services.vue",
+        "chunkName": "pages/index/services",
+        "url": "/ar/services"
+      },
+      {
+        "name": "index-turkishbuyhouse___ar",
+        "path": "turkishbuyhouse",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishbuyhouse.vue",
+        "chunkName": "pages/index/turkishbuyhouse",
+        "url": "/ar/turkishbuyhouse"
+      },
+      {
+        "name": "index-turkishcitizenship___ar",
+        "path": "turkishcitizenship",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishcitizenship.vue",
+        "chunkName": "pages/index/turkishcitizenship",
+        "url": "/ar/turkishcitizenship"
+      },
+      {
+        "name": "index-turkishpassport___ar",
+        "path": "turkishpassport",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishpassport.vue",
+        "chunkName": "pages/index/turkishpassport",
+        "url": "/ar/turkishpassport"
+      },
+      {
+        "name": "index-virtualtour___ar",
+        "path": "virtualtour",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\virtualtour.vue",
+        "chunkName": "pages/index/virtualtour",
+        "url": "/ar/virtualtour"
+      },
+      {
+        "name": "index-detail-project___ar",
+        "path": "detail/:project",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\detail\\\\_project\\\\index.vue",
+        "chunkName": "pages/index/detail/_project/index"
+      }
+    ]
+  },
+  {
+    "path": "/ch",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index___ch",
+        "path": "",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\index.vue",
+        "chunkName": "pages/index/index",
+        "url": "/ch"
+      },
+      {
+        "name": "index-aboutus___ch",
+        "path": "aboutus",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\aboutus.vue",
+        "chunkName": "pages/index/aboutus",
+        "url": "/ch/aboutus"
+      },
+      {
+        "name": "index-contactus___ch",
+        "path": "contactus",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\contactus.vue",
+        "chunkName": "pages/index/contactus",
+        "url": "/ch/contactus"
+      },
+      {
+        "name": "index-edit___ch",
+        "path": "edit",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\edit.vue",
+        "chunkName": "pages/index/edit",
+        "url": "/ch/edit"
+      },
+      {
+        "name": "index-FAQ___ch",
+        "path": "FAQ",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\FAQ.vue",
+        "chunkName": "pages/index/FAQ",
+        "url": "/ch/FAQ"
+      },
+      {
+        "name": "index-new___ch",
+        "path": "new",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\new.vue",
+        "chunkName": "pages/index/new",
+        "url": "/ch/new"
+      },
+      {
+        "path": "plans",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans.vue",
+        "chunkName": "pages/index/plans",
+        "children": [
+          {
+            "name": "index-plans___ch",
+            "path": "",
+            "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans\\\\index.vue",
+            "chunkName": "pages/index/plans/index",
+            "url": "/ch/plans"
+          },
+          {
+            "name": "index-plans-agency___ch",
+            "path": "agency",
+            "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans\\\\agency.vue",
+            "chunkName": "pages/index/plans/agency",
+            "url": "/ch/plans/agency"
+          }
+        ]
+      },
+      {
+        "name": "index-search___ch",
+        "path": "search",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\search.vue",
+        "chunkName": "pages/index/search",
+        "url": "/ch/search"
+      },
+      {
+        "name": "index-services___ch",
+        "path": "services",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\services.vue",
+        "chunkName": "pages/index/services",
+        "url": "/ch/services"
+      },
+      {
+        "name": "index-turkishbuyhouse___ch",
+        "path": "turkishbuyhouse",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishbuyhouse.vue",
+        "chunkName": "pages/index/turkishbuyhouse",
+        "url": "/ch/turkishbuyhouse"
+      },
+      {
+        "name": "index-turkishcitizenship___ch",
+        "path": "turkishcitizenship",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishcitizenship.vue",
+        "chunkName": "pages/index/turkishcitizenship",
+        "url": "/ch/turkishcitizenship"
+      },
+      {
+        "name": "index-turkishpassport___ch",
+        "path": "turkishpassport",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishpassport.vue",
+        "chunkName": "pages/index/turkishpassport",
+        "url": "/ch/turkishpassport"
+      },
+      {
+        "name": "index-virtualtour___ch",
+        "path": "virtualtour",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\virtualtour.vue",
+        "chunkName": "pages/index/virtualtour",
+        "url": "/ch/virtualtour"
+      },
+      {
+        "name": "index-detail-project___ch",
+        "path": "detail/:project",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\detail\\\\_project\\\\index.vue",
+        "chunkName": "pages/index/detail/_project/index"
+      }
+    ]
+  },
+  {
+    "path": "/en",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index___en",
+        "path": "",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\index.vue",
+        "chunkName": "pages/index/index",
+        "url": "/en"
+      },
+      {
+        "name": "index-aboutus___en",
+        "path": "aboutus",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\aboutus.vue",
+        "chunkName": "pages/index/aboutus",
+        "url": "/en/aboutus"
+      },
+      {
+        "name": "index-contactus___en",
+        "path": "contactus",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\contactus.vue",
+        "chunkName": "pages/index/contactus",
+        "url": "/en/contactus"
+      },
+      {
+        "name": "index-edit___en",
+        "path": "edit",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\edit.vue",
+        "chunkName": "pages/index/edit",
+        "url": "/en/edit"
+      },
+      {
+        "name": "index-FAQ___en",
+        "path": "FAQ",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\FAQ.vue",
+        "chunkName": "pages/index/FAQ",
+        "url": "/en/FAQ"
+      },
+      {
+        "name": "index-new___en",
+        "path": "new",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\new.vue",
+        "chunkName": "pages/index/new",
+        "url": "/en/new"
+      },
+      {
+        "path": "plans",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans.vue",
+        "chunkName": "pages/index/plans",
+        "children": [
+          {
+            "name": "index-plans___en",
+            "path": "",
+            "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans\\\\index.vue",
+            "chunkName": "pages/index/plans/index",
+            "url": "/en/plans"
+          },
+          {
+            "name": "index-plans-agency___en",
+            "path": "agency",
+            "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans\\\\agency.vue",
+            "chunkName": "pages/index/plans/agency",
+            "url": "/en/plans/agency"
+          }
+        ]
+      },
+      {
+        "name": "index-search___en",
+        "path": "search",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\search.vue",
+        "chunkName": "pages/index/search",
+        "url": "/en/search"
+      },
+      {
+        "name": "index-services___en",
+        "path": "services",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\services.vue",
+        "chunkName": "pages/index/services",
+        "url": "/en/services"
+      },
+      {
+        "name": "index-turkishbuyhouse___en",
+        "path": "turkishbuyhouse",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishbuyhouse.vue",
+        "chunkName": "pages/index/turkishbuyhouse",
+        "url": "/en/turkishbuyhouse"
+      },
+      {
+        "name": "index-turkishcitizenship___en",
+        "path": "turkishcitizenship",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishcitizenship.vue",
+        "chunkName": "pages/index/turkishcitizenship",
+        "url": "/en/turkishcitizenship"
+      },
+      {
+        "name": "index-turkishpassport___en",
+        "path": "turkishpassport",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishpassport.vue",
+        "chunkName": "pages/index/turkishpassport",
+        "url": "/en/turkishpassport"
+      },
+      {
+        "name": "index-virtualtour___en",
+        "path": "virtualtour",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\virtualtour.vue",
+        "chunkName": "pages/index/virtualtour",
+        "url": "/en/virtualtour"
+      },
+      {
+        "name": "index-detail-project___en",
+        "path": "detail/:project",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\detail\\\\_project\\\\index.vue",
+        "chunkName": "pages/index/detail/_project/index"
+      }
+    ]
+  },
+  {
+    "name": "estate___fa",
+    "path": "/estate",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\estate.vue",
+    "chunkName": "pages/estate",
+    "url": "/estate"
+  },
+  {
+    "path": "/profile",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "children": [
+      {
+        "name": "profile___fa",
+        "path": "",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\index.vue",
+        "chunkName": "pages/profile/index",
+        "url": "/profile"
+      },
+      {
+        "name": "profile-favorite___fa",
+        "path": "favorite",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\favorite.vue",
+        "chunkName": "pages/profile/favorite",
+        "url": "/profile/favorite"
+      },
+      {
+        "name": "profile-history___fa",
+        "path": "history",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\history.vue",
+        "chunkName": "pages/profile/history",
+        "url": "/profile/history"
+      },
+      {
+        "name": "profile-meeting___fa",
+        "path": "meeting",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\meeting.vue",
+        "chunkName": "pages/profile/meeting",
+        "url": "/profile/meeting"
+      },
+      {
+        "name": "profile-myestates___fa",
+        "path": "myestates",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\myestates.vue",
+        "chunkName": "pages/profile/myestates",
+        "url": "/profile/myestates"
+      },
+      {
+        "name": "profile-myprojects___fa",
+        "path": "myprojects",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\myprojects.vue",
+        "chunkName": "pages/profile/myprojects",
+        "url": "/profile/myprojects"
+      },
+      {
+        "name": "profile-notification___fa",
+        "path": "notification",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\notification.vue",
+        "chunkName": "pages/profile/notification",
+        "url": "/profile/notification"
+      },
+      {
+        "name": "profile-support___fa",
+        "path": "support",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\support.vue",
+        "chunkName": "pages/profile/support",
+        "url": "/profile/support"
+      },
+      {
+        "name": "profile-transaction___fa",
+        "path": "transaction",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\transaction.vue",
+        "chunkName": "pages/profile/transaction",
+        "url": "/profile/transaction"
+      }
+    ]
+  },
+  {
+    "path": "/ru",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index___ru",
+        "path": "",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\index.vue",
+        "chunkName": "pages/index/index",
+        "url": "/ru"
+      },
+      {
+        "name": "index-aboutus___ru",
+        "path": "aboutus",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\aboutus.vue",
+        "chunkName": "pages/index/aboutus",
+        "url": "/ru/aboutus"
+      },
+      {
+        "name": "index-contactus___ru",
+        "path": "contactus",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\contactus.vue",
+        "chunkName": "pages/index/contactus",
+        "url": "/ru/contactus"
+      },
+      {
+        "name": "index-edit___ru",
+        "path": "edit",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\edit.vue",
+        "chunkName": "pages/index/edit",
+        "url": "/ru/edit"
+      },
+      {
+        "name": "index-FAQ___ru",
+        "path": "FAQ",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\FAQ.vue",
+        "chunkName": "pages/index/FAQ",
+        "url": "/ru/FAQ"
+      },
+      {
+        "name": "index-new___ru",
+        "path": "new",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\new.vue",
+        "chunkName": "pages/index/new",
+        "url": "/ru/new"
+      },
+      {
+        "path": "plans",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans.vue",
+        "chunkName": "pages/index/plans",
+        "children": [
+          {
+            "name": "index-plans___ru",
+            "path": "",
+            "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans\\\\index.vue",
+            "chunkName": "pages/index/plans/index",
+            "url": "/ru/plans"
+          },
+          {
+            "name": "index-plans-agency___ru",
+            "path": "agency",
+            "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans\\\\agency.vue",
+            "chunkName": "pages/index/plans/agency",
+            "url": "/ru/plans/agency"
+          }
+        ]
+      },
+      {
+        "name": "index-search___ru",
+        "path": "search",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\search.vue",
+        "chunkName": "pages/index/search",
+        "url": "/ru/search"
+      },
+      {
+        "name": "index-services___ru",
+        "path": "services",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\services.vue",
+        "chunkName": "pages/index/services",
+        "url": "/ru/services"
+      },
+      {
+        "name": "index-turkishbuyhouse___ru",
+        "path": "turkishbuyhouse",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishbuyhouse.vue",
+        "chunkName": "pages/index/turkishbuyhouse",
+        "url": "/ru/turkishbuyhouse"
+      },
+      {
+        "name": "index-turkishcitizenship___ru",
+        "path": "turkishcitizenship",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishcitizenship.vue",
+        "chunkName": "pages/index/turkishcitizenship",
+        "url": "/ru/turkishcitizenship"
+      },
+      {
+        "name": "index-turkishpassport___ru",
+        "path": "turkishpassport",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishpassport.vue",
+        "chunkName": "pages/index/turkishpassport",
+        "url": "/ru/turkishpassport"
+      },
+      {
+        "name": "index-virtualtour___ru",
+        "path": "virtualtour",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\virtualtour.vue",
+        "chunkName": "pages/index/virtualtour",
+        "url": "/ru/virtualtour"
+      },
+      {
+        "name": "index-detail-project___ru",
+        "path": "detail/:project",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\detail\\\\_project\\\\index.vue",
+        "chunkName": "pages/index/detail/_project/index"
+      }
+    ]
+  },
+  {
+    "path": "/tr",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index___tr",
+        "path": "",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\index.vue",
+        "chunkName": "pages/index/index",
+        "url": "/tr"
+      },
+      {
+        "name": "index-aboutus___tr",
+        "path": "aboutus",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\aboutus.vue",
+        "chunkName": "pages/index/aboutus",
+        "url": "/tr/aboutus"
+      },
+      {
+        "name": "index-contactus___tr",
+        "path": "contactus",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\contactus.vue",
+        "chunkName": "pages/index/contactus",
+        "url": "/tr/contactus"
+      },
+      {
+        "name": "index-edit___tr",
+        "path": "edit",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\edit.vue",
+        "chunkName": "pages/index/edit",
+        "url": "/tr/edit"
+      },
+      {
+        "name": "index-FAQ___tr",
+        "path": "FAQ",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\FAQ.vue",
+        "chunkName": "pages/index/FAQ",
+        "url": "/tr/FAQ"
+      },
+      {
+        "name": "index-new___tr",
+        "path": "new",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\new.vue",
+        "chunkName": "pages/index/new",
+        "url": "/tr/new"
+      },
+      {
+        "path": "plans",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans.vue",
+        "chunkName": "pages/index/plans",
+        "children": [
+          {
+            "name": "index-plans___tr",
+            "path": "",
+            "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans\\\\index.vue",
+            "chunkName": "pages/index/plans/index",
+            "url": "/tr/plans"
+          },
+          {
+            "name": "index-plans-agency___tr",
+            "path": "agency",
+            "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans\\\\agency.vue",
+            "chunkName": "pages/index/plans/agency",
+            "url": "/tr/plans/agency"
+          }
+        ]
+      },
+      {
+        "name": "index-search___tr",
+        "path": "search",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\search.vue",
+        "chunkName": "pages/index/search",
+        "url": "/tr/search"
+      },
+      {
+        "name": "index-services___tr",
+        "path": "services",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\services.vue",
+        "chunkName": "pages/index/services",
+        "url": "/tr/services"
+      },
+      {
+        "name": "index-turkishbuyhouse___tr",
+        "path": "turkishbuyhouse",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishbuyhouse.vue",
+        "chunkName": "pages/index/turkishbuyhouse",
+        "url": "/tr/turkishbuyhouse"
+      },
+      {
+        "name": "index-turkishcitizenship___tr",
+        "path": "turkishcitizenship",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishcitizenship.vue",
+        "chunkName": "pages/index/turkishcitizenship",
+        "url": "/tr/turkishcitizenship"
+      },
+      {
+        "name": "index-turkishpassport___tr",
+        "path": "turkishpassport",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishpassport.vue",
+        "chunkName": "pages/index/turkishpassport",
+        "url": "/tr/turkishpassport"
+      },
+      {
+        "name": "index-virtualtour___tr",
+        "path": "virtualtour",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\virtualtour.vue",
+        "chunkName": "pages/index/virtualtour",
+        "url": "/tr/virtualtour"
+      },
+      {
+        "name": "index-detail-project___tr",
+        "path": "detail/:project",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\detail\\\\_project\\\\index.vue",
+        "chunkName": "pages/index/detail/_project/index"
+      }
+    ]
+  },
+  {
+    "name": "404___ar",
+    "path": "/ar/404",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "url": "/ar/404"
+  },
+  {
+    "name": "500___ar",
+    "path": "/ar/500",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\500.vue",
+    "chunkName": "pages/500",
+    "url": "/ar/500"
+  },
+  {
+    "name": "estate___ar",
+    "path": "/ar/estate",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\estate.vue",
+    "chunkName": "pages/estate",
+    "url": "/ar/estate"
+  },
+  {
+    "path": "/ar/profile",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "children": [
+      {
+        "name": "profile___ar",
+        "path": "",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\index.vue",
+        "chunkName": "pages/profile/index",
+        "url": "/ar/profile"
+      },
+      {
+        "name": "profile-favorite___ar",
+        "path": "favorite",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\favorite.vue",
+        "chunkName": "pages/profile/favorite",
+        "url": "/ar/profile/favorite"
+      },
+      {
+        "name": "profile-history___ar",
+        "path": "history",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\history.vue",
+        "chunkName": "pages/profile/history",
+        "url": "/ar/profile/history"
+      },
+      {
+        "name": "profile-meeting___ar",
+        "path": "meeting",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\meeting.vue",
+        "chunkName": "pages/profile/meeting",
+        "url": "/ar/profile/meeting"
+      },
+      {
+        "name": "profile-myestates___ar",
+        "path": "myestates",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\myestates.vue",
+        "chunkName": "pages/profile/myestates",
+        "url": "/ar/profile/myestates"
+      },
+      {
+        "name": "profile-myprojects___ar",
+        "path": "myprojects",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\myprojects.vue",
+        "chunkName": "pages/profile/myprojects",
+        "url": "/ar/profile/myprojects"
+      },
+      {
+        "name": "profile-notification___ar",
+        "path": "notification",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\notification.vue",
+        "chunkName": "pages/profile/notification",
+        "url": "/ar/profile/notification"
+      },
+      {
+        "name": "profile-support___ar",
+        "path": "support",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\support.vue",
+        "chunkName": "pages/profile/support",
+        "url": "/ar/profile/support"
+      },
+      {
+        "name": "profile-transaction___ar",
+        "path": "transaction",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\transaction.vue",
+        "chunkName": "pages/profile/transaction",
+        "url": "/ar/profile/transaction"
+      }
+    ]
+  },
+  {
+    "name": "404___ch",
+    "path": "/ch/404",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "url": "/ch/404"
+  },
+  {
+    "name": "500___ch",
+    "path": "/ch/500",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\500.vue",
+    "chunkName": "pages/500",
+    "url": "/ch/500"
+  },
+  {
+    "name": "estate___ch",
+    "path": "/ch/estate",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\estate.vue",
+    "chunkName": "pages/estate",
+    "url": "/ch/estate"
+  },
+  {
+    "path": "/ch/profile",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "children": [
+      {
+        "name": "profile___ch",
+        "path": "",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\index.vue",
+        "chunkName": "pages/profile/index",
+        "url": "/ch/profile"
+      },
+      {
+        "name": "profile-favorite___ch",
+        "path": "favorite",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\favorite.vue",
+        "chunkName": "pages/profile/favorite",
+        "url": "/ch/profile/favorite"
+      },
+      {
+        "name": "profile-history___ch",
+        "path": "history",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\history.vue",
+        "chunkName": "pages/profile/history",
+        "url": "/ch/profile/history"
+      },
+      {
+        "name": "profile-meeting___ch",
+        "path": "meeting",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\meeting.vue",
+        "chunkName": "pages/profile/meeting",
+        "url": "/ch/profile/meeting"
+      },
+      {
+        "name": "profile-myestates___ch",
+        "path": "myestates",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\myestates.vue",
+        "chunkName": "pages/profile/myestates",
+        "url": "/ch/profile/myestates"
+      },
+      {
+        "name": "profile-myprojects___ch",
+        "path": "myprojects",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\myprojects.vue",
+        "chunkName": "pages/profile/myprojects",
+        "url": "/ch/profile/myprojects"
+      },
+      {
+        "name": "profile-notification___ch",
+        "path": "notification",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\notification.vue",
+        "chunkName": "pages/profile/notification",
+        "url": "/ch/profile/notification"
+      },
+      {
+        "name": "profile-support___ch",
+        "path": "support",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\support.vue",
+        "chunkName": "pages/profile/support",
+        "url": "/ch/profile/support"
+      },
+      {
+        "name": "profile-transaction___ch",
+        "path": "transaction",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\transaction.vue",
+        "chunkName": "pages/profile/transaction",
+        "url": "/ch/profile/transaction"
+      }
+    ]
+  },
+  {
+    "name": "404___en",
+    "path": "/en/404",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "url": "/en/404"
+  },
+  {
+    "name": "500___en",
+    "path": "/en/500",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\500.vue",
+    "chunkName": "pages/500",
+    "url": "/en/500"
+  },
+  {
+    "name": "estate___en",
+    "path": "/en/estate",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\estate.vue",
+    "chunkName": "pages/estate",
+    "url": "/en/estate"
+  },
+  {
+    "path": "/en/profile",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "children": [
+      {
+        "name": "profile___en",
+        "path": "",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\index.vue",
+        "chunkName": "pages/profile/index",
+        "url": "/en/profile"
+      },
+      {
+        "name": "profile-favorite___en",
+        "path": "favorite",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\favorite.vue",
+        "chunkName": "pages/profile/favorite",
+        "url": "/en/profile/favorite"
+      },
+      {
+        "name": "profile-history___en",
+        "path": "history",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\history.vue",
+        "chunkName": "pages/profile/history",
+        "url": "/en/profile/history"
+      },
+      {
+        "name": "profile-meeting___en",
+        "path": "meeting",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\meeting.vue",
+        "chunkName": "pages/profile/meeting",
+        "url": "/en/profile/meeting"
+      },
+      {
+        "name": "profile-myestates___en",
+        "path": "myestates",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\myestates.vue",
+        "chunkName": "pages/profile/myestates",
+        "url": "/en/profile/myestates"
+      },
+      {
+        "name": "profile-myprojects___en",
+        "path": "myprojects",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\myprojects.vue",
+        "chunkName": "pages/profile/myprojects",
+        "url": "/en/profile/myprojects"
+      },
+      {
+        "name": "profile-notification___en",
+        "path": "notification",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\notification.vue",
+        "chunkName": "pages/profile/notification",
+        "url": "/en/profile/notification"
+      },
+      {
+        "name": "profile-support___en",
+        "path": "support",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\support.vue",
+        "chunkName": "pages/profile/support",
+        "url": "/en/profile/support"
+      },
+      {
+        "name": "profile-transaction___en",
+        "path": "transaction",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\transaction.vue",
+        "chunkName": "pages/profile/transaction",
+        "url": "/en/profile/transaction"
+      }
+    ]
+  },
+  {
+    "name": "404___ru",
+    "path": "/ru/404",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "url": "/ru/404"
+  },
+  {
+    "name": "500___ru",
+    "path": "/ru/500",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\500.vue",
+    "chunkName": "pages/500",
+    "url": "/ru/500"
+  },
+  {
+    "name": "estate___ru",
+    "path": "/ru/estate",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\estate.vue",
+    "chunkName": "pages/estate",
+    "url": "/ru/estate"
+  },
+  {
+    "path": "/ru/profile",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "children": [
+      {
+        "name": "profile___ru",
+        "path": "",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\index.vue",
+        "chunkName": "pages/profile/index",
+        "url": "/ru/profile"
+      },
+      {
+        "name": "profile-favorite___ru",
+        "path": "favorite",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\favorite.vue",
+        "chunkName": "pages/profile/favorite",
+        "url": "/ru/profile/favorite"
+      },
+      {
+        "name": "profile-history___ru",
+        "path": "history",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\history.vue",
+        "chunkName": "pages/profile/history",
+        "url": "/ru/profile/history"
+      },
+      {
+        "name": "profile-meeting___ru",
+        "path": "meeting",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\meeting.vue",
+        "chunkName": "pages/profile/meeting",
+        "url": "/ru/profile/meeting"
+      },
+      {
+        "name": "profile-myestates___ru",
+        "path": "myestates",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\myestates.vue",
+        "chunkName": "pages/profile/myestates",
+        "url": "/ru/profile/myestates"
+      },
+      {
+        "name": "profile-myprojects___ru",
+        "path": "myprojects",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\myprojects.vue",
+        "chunkName": "pages/profile/myprojects",
+        "url": "/ru/profile/myprojects"
+      },
+      {
+        "name": "profile-notification___ru",
+        "path": "notification",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\notification.vue",
+        "chunkName": "pages/profile/notification",
+        "url": "/ru/profile/notification"
+      },
+      {
+        "name": "profile-support___ru",
+        "path": "support",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\support.vue",
+        "chunkName": "pages/profile/support",
+        "url": "/ru/profile/support"
+      },
+      {
+        "name": "profile-transaction___ru",
+        "path": "transaction",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\transaction.vue",
+        "chunkName": "pages/profile/transaction",
+        "url": "/ru/profile/transaction"
+      }
+    ]
+  },
+  {
+    "name": "404___tr",
+    "path": "/tr/404",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "url": "/tr/404"
+  },
+  {
+    "name": "500___tr",
+    "path": "/tr/500",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\500.vue",
+    "chunkName": "pages/500",
+    "url": "/tr/500"
+  },
+  {
+    "name": "estate___tr",
+    "path": "/tr/estate",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\estate.vue",
+    "chunkName": "pages/estate",
+    "url": "/tr/estate"
+  },
+  {
+    "path": "/tr/profile",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "children": [
+      {
+        "name": "profile___tr",
+        "path": "",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\index.vue",
+        "chunkName": "pages/profile/index",
+        "url": "/tr/profile"
+      },
+      {
+        "name": "profile-favorite___tr",
+        "path": "favorite",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\favorite.vue",
+        "chunkName": "pages/profile/favorite",
+        "url": "/tr/profile/favorite"
+      },
+      {
+        "name": "profile-history___tr",
+        "path": "history",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\history.vue",
+        "chunkName": "pages/profile/history",
+        "url": "/tr/profile/history"
+      },
+      {
+        "name": "profile-meeting___tr",
+        "path": "meeting",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\meeting.vue",
+        "chunkName": "pages/profile/meeting",
+        "url": "/tr/profile/meeting"
+      },
+      {
+        "name": "profile-myestates___tr",
+        "path": "myestates",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\myestates.vue",
+        "chunkName": "pages/profile/myestates",
+        "url": "/tr/profile/myestates"
+      },
+      {
+        "name": "profile-myprojects___tr",
+        "path": "myprojects",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\myprojects.vue",
+        "chunkName": "pages/profile/myprojects",
+        "url": "/tr/profile/myprojects"
+      },
+      {
+        "name": "profile-notification___tr",
+        "path": "notification",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\notification.vue",
+        "chunkName": "pages/profile/notification",
+        "url": "/tr/profile/notification"
+      },
+      {
+        "name": "profile-support___tr",
+        "path": "support",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\support.vue",
+        "chunkName": "pages/profile/support",
+        "url": "/tr/profile/support"
+      },
+      {
+        "name": "profile-transaction___tr",
+        "path": "transaction",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\profile\\\\transaction.vue",
+        "chunkName": "pages/profile/transaction",
+        "url": "/tr/profile/transaction"
+      }
+    ]
+  },
+  {
+    "path": "/",
+    "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index___fa",
+        "path": "",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\index.vue",
+        "chunkName": "pages/index/index",
+        "url": "/"
+      },
+      {
+        "name": "index-aboutus___fa",
+        "path": "aboutus",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\aboutus.vue",
+        "chunkName": "pages/index/aboutus",
+        "url": "//aboutus"
+      },
+      {
+        "name": "index-contactus___fa",
+        "path": "contactus",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\contactus.vue",
+        "chunkName": "pages/index/contactus",
+        "url": "//contactus"
+      },
+      {
+        "name": "index-edit___fa",
+        "path": "edit",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\edit.vue",
+        "chunkName": "pages/index/edit",
+        "url": "//edit"
+      },
+      {
+        "name": "index-FAQ___fa",
+        "path": "FAQ",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\FAQ.vue",
+        "chunkName": "pages/index/FAQ",
+        "url": "//FAQ"
+      },
+      {
+        "name": "index-new___fa",
+        "path": "new",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\new.vue",
+        "chunkName": "pages/index/new",
+        "url": "//new"
+      },
+      {
+        "path": "plans",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans.vue",
+        "chunkName": "pages/index/plans",
+        "children": [
+          {
+            "name": "index-plans___fa",
+            "path": "",
+            "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans\\\\index.vue",
+            "chunkName": "pages/index/plans/index",
+            "url": "//plans"
+          },
+          {
+            "name": "index-plans-agency___fa",
+            "path": "agency",
+            "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\plans\\\\agency.vue",
+            "chunkName": "pages/index/plans/agency",
+            "url": "//plans/agency"
+          }
+        ]
+      },
+      {
+        "name": "index-search___fa",
+        "path": "search",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\search.vue",
+        "chunkName": "pages/index/search",
+        "url": "//search"
+      },
+      {
+        "name": "index-services___fa",
+        "path": "services",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\services.vue",
+        "chunkName": "pages/index/services",
+        "url": "//services"
+      },
+      {
+        "name": "index-turkishbuyhouse___fa",
+        "path": "turkishbuyhouse",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishbuyhouse.vue",
+        "chunkName": "pages/index/turkishbuyhouse",
+        "url": "//turkishbuyhouse"
+      },
+      {
+        "name": "index-turkishcitizenship___fa",
+        "path": "turkishcitizenship",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishcitizenship.vue",
+        "chunkName": "pages/index/turkishcitizenship",
+        "url": "//turkishcitizenship"
+      },
+      {
+        "name": "index-turkishpassport___fa",
+        "path": "turkishpassport",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\turkishpassport.vue",
+        "chunkName": "pages/index/turkishpassport",
+        "url": "//turkishpassport"
+      },
+      {
+        "name": "index-virtualtour___fa",
+        "path": "virtualtour",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\virtualtour.vue",
+        "chunkName": "pages/index/virtualtour",
+        "url": "//virtualtour"
+      },
+      {
+        "name": "index-detail-project___fa",
+        "path": "detail/:project",
+        "component": "C:\\\\Users\\\\amomammadw\\\\Downloads\\\\Telegram Desktop\\\\Web\\\\pages\\\\index\\\\detail\\\\_project\\\\index.vue",
+        "chunkName": "pages/index/detail/_project/index"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "Fab": {
+    "description": "Auto imported from components/fab.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/footer.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "SharingModal": {
+    "description": "Auto imported from components/sharing-modal.vue"
+  },
+  "SocialHead": {
+    "description": "Auto imported from components/SocialHead.vue"
+  },
+  "HouseCardMap": {
+    "description": "Auto imported from components/house/card-map.vue"
+  },
+  "HouseCardSuggest": {
+    "description": "Auto imported from components/house/card-suggest.vue"
+  },
+  "HouseCard1": {
+    "description": "Auto imported from components/house/card1.vue"
+  },
+  "MenuTop": {
+    "description": "Auto imported from components/menu/top.vue"
+  },
+  "MenuTopLTR": {
+    "description": "Auto imported from components/menu/topLTR.vue"
+  },
+  "ProfileMenuRightSide": {
+    "description": "Auto imported from components/profile/menu-Right_side.vue"
+  },
+  "IndexFaq": {
+    "description": "Auto imported from components/index/faq.vue"
+  },
+  "IndexHeader": {
+    "description": "Auto imported from components/index/header.vue"
+  },
+  "IndexInfoItem": {
+    "description": "Auto imported from components/index/info-item.vue"
+  },
+  "IndexInfo": {
+    "description": "Auto imported from components/index/info.vue"
+  },
+  "IndexLastestates": {
+    "description": "Auto imported from components/index/lastestates.vue"
+  },
+  "IndexMag": {
+    "description": "Auto imported from components/index/mag.vue"
+  },
+  "IndexSuggestion1": {
+    "description": "Auto imported from components/index/suggestion1.vue"
+  },
+  "IndexSuggestion2": {
+    "description": "Auto imported from components/index/suggestion2.vue"
+  }
+}
